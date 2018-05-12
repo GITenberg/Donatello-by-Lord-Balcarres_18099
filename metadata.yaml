@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7807
     wikipedia: http://en.wikipedia.org/wiki/David_Lindsay,_27th_Earl_of_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18099#Donatello-by-Lord-Balcarres
 gutenberg_issued: '2006-04-01'
 gutenberg_type: Text
 identifiers:
